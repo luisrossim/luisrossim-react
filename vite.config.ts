@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/luisrossim-react',
+  base: '/portfolio',
   resolve: {
     alias: {
       '@': '/src',
